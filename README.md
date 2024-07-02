@@ -1,25 +1,6 @@
 # Airbnb Price Estimator
 
-## Project Overview
-
-This project focuses on creating a precise and reliable price estimator for Airbnb rentals using data science and machine learning techniques. The data for this project was obtained through web scraping from Airbnb, and various models were developed and tested to predict rental prices accurately.
-
-## Table of Contents
-
-1. [Project Overview](#project-overview)
-2. [Abstract](#abstract)
-3. [Introduction and Background](#introduction-and-background)
-4. [Objectives](#objectives)
-5. [Materials and Methods](#materials-and-methods)
-6. [Data Import and Initial Visualization](#data-import-and-initial-visualization)
-7. [Variable Transformation](#variable-transformation)
-8. [Data Cleaning](#data-cleaning)
-9. [Target Setting](#target-setting)
-10. [Graphical Analysis and Correlation](#graphical-analysis-and-correlation)
-11. [Machine Learning Models](#machine-learning-models)
-12. [Price Estimator](#price-estimator)
-13. [Conclusions](#conclusions)
-14. [Acknowledgments](#acknowledgments)
+You can find all relevant information in the repository. The detailed explanation of the work is published as a PDF in both English and Spanish.
 
 ## Abstract
 
