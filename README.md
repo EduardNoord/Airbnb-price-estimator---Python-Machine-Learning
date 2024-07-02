@@ -1,4 +1,4 @@
-# Airbnb Price Estimator
+# Airbnb Machine Learning Price Estimator
 
 You can find all relevant information in the repository. The detailed explanation of the work is published as a PDF in both English and Spanish.
 
