@@ -6,6 +6,8 @@ You can find all relevant information in the repository. The detailed explanatio
 
 This project involves data treatment and analysis from a Data Scientist's perspective to create a precise and reliable price estimator for short-term rental properties. The dataset was obtained via scraping from Airbnb, followed by data selection, cleaning, and treatment. An extensive statistical and graphical analysis was conducted to find patterns and significant correlations between property features and rental prices. Various machine learning models were evaluated to find the best-performing algorithm.
 
+![GIF estimator](https://github.com/EduardNoord/Airbnb-price-estimator---Python-Machine-Learning/assets/172923744/12c405ff-a1fd-43c7-b985-dd0260d2a0b9)
+
 ## Introduction and Background
 
 Airbnb is a digital platform allowing individuals to list and manage short to medium-term rental accommodations. Since its inception in 2008, it has revolutionized the hospitality and tourism industry by providing an alternative to traditional hotel services. The data available from Airbnb offers a rich resource for analysis to understand the factors influencing rental prices and to develop predictive models.
